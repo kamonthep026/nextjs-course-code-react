@@ -3,4 +3,4 @@ Next.js & React - The Complete Guide
 
 https://www.udemy.com/course/nextjs-react-the-complete-guide/
 
-![alt text](images/myTodo-image.jpeg)
+![alt text](public/images/myTodo-image.jpeg)
